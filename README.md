@@ -1,2 +1,2 @@
 # git-workshop
-hello from A and B
+hello from A, B, and C
